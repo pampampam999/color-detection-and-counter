@@ -1,6 +1,6 @@
 # Color Detection - Photo and Video
 
-Terdapat 2 Fungsi yaitu main() dan main2()
+Terdapat 2 Fungsi pada run.py yaitu main() dan main2()
 main() : untuk deteksi warna dan counter dengan menggunakan foto
 main2() : deteksi secara realtime warna dan counter dengan video
 
@@ -10,7 +10,7 @@ Program diatas memerlukan librari:
 2. Numpy
 
 Referensi utama dari project ini adalah DOLAB dengan beberapa seri dan dengan mengacu pada post blog 4
-Thansk to sorawit_dolab
+Thansk to sorawit_dolab. Jika ingin melihat code asli dari dolab pada blog4.py
 
 # DOLAB_Blog4
 
