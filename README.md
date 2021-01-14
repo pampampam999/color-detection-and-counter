@@ -1,6 +1,16 @@
 # Color Detection - Photo and Video
 
-# Referensi
+Terdapat 2 Fungsi yaitu main() dan main2()
+main() : untuk deteksi warna dan counter dengan menggunakan foto
+main2() : deteksi secara realtime warna dan counter dengan video
+
+Program diatas memerlukan librari:
+
+1. OpenCV
+2. Numpy
+
+Referensi utama dari project ini adalah DOLAB dengan beberapa seri dan dengan mengacu pada post blog 4
+Thansk to sorawit_dolab
 
 # DOLAB_Blog4
 
