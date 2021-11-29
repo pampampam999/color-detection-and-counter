@@ -208,7 +208,7 @@ def main():
 
 def main2():
     # video capture
-    cap = cv2.VideoCapture(2)
+    cap = cv2.VideoCapture(1)
 
     # Trackbar Red
     cv2.namedWindow("TrackBars1")
